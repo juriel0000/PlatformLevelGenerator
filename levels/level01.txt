@@ -4,7 +4,7 @@
                                                  .__  _.                       B                    
        ......  B  .....   B   .....    B    .... __    _.  B  B  B  B  B  B	                        
        ______....._____ ..... _____  .....  _____       _  _ _ _ _ _ _ _ _    XXX                   
-     X       _____      _____        _____                                   XXXX                   
-    XX                                                                      XXXXX                   
-P  XXX V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V XXXXXXX  C    C      E
+     X       _____      _____        _____           XX                      XXXX                   
+    XXX                                             XXXX                    XXXXX                   
+P  XXXXX  V  C  C  V  C  C X C  C V  V  C  C  C  V XXXXXX C  V  CCCXCCC  V XXXXXXX  C    C      E
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 

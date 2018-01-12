@@ -98,7 +98,7 @@ public class Main {
             }
         }
         if (c == '_'){
-            System.out.println("PLATFORM\tPlatforms/platform00-500x100-top.png\t"+(posx+250)+"\t"+(posy+50)+"\tgame" );
+            System.out.println("PLATFORM\tPlatforms/platform00-500x100-top.png\t"+(posx+250)+"\t"+(posy+80)+"\tgame" );
 
         }
         if (c == 'P'){
@@ -106,7 +106,7 @@ public class Main {
             
         }
         if (c == '.'){
-            System.out.println("COIN\tnone\t"+(posx+250)+"\t"+(posy+250)+"\tgame" );
+            System.out.println("COIN\tnone\t"+(posx+250)+"\t"+(posy+10)+"\tgame" );
             
         }
         if (c == 'E'){
@@ -116,7 +116,7 @@ public class Main {
             System.out.println("ENEMY_AERIAL_PATROL_ZONE\tEnemies/zone_bat-1000.props\t"+(posx+250)+"\t"+(posy+250)+"\tgame" );            
         }
         if (c == 'V'){
-            System.out.println("ENEMY_STATIC\tEnemies/seaUrchin.png\t"+(posx+250)+"\t"+(posy+250)+"\tgame" );            
+            System.out.println("ENEMY_STATIC\tEnemies/seaUrchin.png\t"+(posx+250)+"\t"+(posy+150)+"\tgame" );            
         }
         if (c == 'C'){
             System.out.println("ENEMY_PATROL\tEnemies/Crab.props\t"+(posx+55)+"\t"+(posy+50)+"\tgame" );            
