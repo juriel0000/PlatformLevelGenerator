@@ -1,0 +1,27 @@
+LIMITS	0	3000	100
+INIT_POS	250	800
+PLATFORM	Platforms/sandPlatform.png	250	450	game
+PLATFORM	Platforms/sandPlatform.png	750	450	game
+PLATFORM	Platforms/sandPlatform.png	1250	450	game
+OBSTACLE	Obstacles/sandPlatformDown30.props	1750	350	game
+PLATFORM	Platforms/sandPlatform.png	2250	150	game
+PLATFORM	Platforms/sandPlatform.png	2750	150	game
+PLATFORM	Platforms/sandPlatform.png	3250	150	game
+PLATFORM	Platforms/sandPlatform.png	3750	150	game
+PLATFORM	Platforms/sandPlatform.png	4250	150	game
+PLATFORM	Platforms/sandPlatform.png	4750	150	game
+PLATFORM	Platforms/sandFill.png	-1750	150	game
+PLATFORM	Platforms/sandFill.png	-1250	150	game
+PLATFORM	Platforms/sandFill.png	-750	150	game
+PLATFORM	Platforms/sandFill.png	-250	150	game
+PLATFORM	Platforms/sandFill.png	250	150	game
+PLATFORM	Platforms/sandFill.png	750	150	game
+PLATFORM	Platforms/sandFill.png	1250	150	game
+PLATFORM	Platforms/sandFill.png	2250	-150	game
+PLATFORM	Platforms/sandFill.png	2750	-150	game
+PLATFORM	Platforms/sandFill.png	3250	-150	game
+PLATFORM	Platforms/sandFill.png	3750	-150	game
+PLATFORM	Platforms/sandFill.png	4250	-150	game
+PLATFORM	Platforms/sandFill.png	4750	-150	game
+OBSTACLE	Obstacles/boulder.props	1250	650	game
+END	end.png	2750	250	game

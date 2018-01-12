@@ -1,0 +1,7 @@
+LIMITS	0	14700	0	
+INIT_POS	250	800		
+PLATFORM	Platforms/sandPlatform.png	-250	450	game
+PLATFORM	Platforms/sandPlatform.png	250	350	game
+PLATFORM	Platforms/sandPlatform.png	750	350	game
+ENEMY_AERIAL_PATROL_ZONE	Enemies/BatVertical1500Up.props	2000	400	game
+PLATFORM	Platforms/sandPlatform.png	750	1250	game

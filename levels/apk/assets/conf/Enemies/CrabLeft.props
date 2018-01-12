@@ -1,0 +1,11 @@
+ske:animations/Crab_ske.json
+tex:animations/Crab_tex.json
+armature:Crab
+width:110
+height:100
+untilCollide:true
+direction:left
+xStart:2200
+yStart:0
+xDest:1000
+yDest:0

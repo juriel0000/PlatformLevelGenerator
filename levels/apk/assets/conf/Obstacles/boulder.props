@@ -1,0 +1,4 @@
+image:images/GameElements/Obstacles/boulder.png
+collider:round
+dynamic:true
+mass:20000

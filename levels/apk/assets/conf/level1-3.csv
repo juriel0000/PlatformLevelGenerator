@@ -1,0 +1,16 @@
+LIMITS	0	3500	50
+PLATFORM	Platforms/sandPlatform.png	250	100	game
+PLATFORM	Platforms/sandPlatform.png	850	450	game
+PLATFORM	Platforms/sandFill.png	250	-200	game
+PLATFORM	Platforms/sandFill.png	850	150	game
+COIN	none	1250	850	game
+COIN	none	1350	850	game
+PLATFORM	Platforms/sandFloatingPlatform.png	350	950	game
+PLATFORM	Platforms/sandFloatingPlatform.png	450	1450	game
+PLATFORM	Platforms/sandFloatingPlatform.png	1350	1550	game
+PLATFORM	Platforms/sandFloatingPlatform.png	2150	1650	game
+PLATFORM	Platforms/sandFloatingPlatform.png	2150	1050	game
+PLATFORM	Platforms/sandFloatingPlatform.png	2750	450	game
+PLATFORM	Platforms/sandFloatingPlatform.png	3250	100	game
+END	end.png	3250	200	game
+ENEMY_AERIAL_PATROL	Enemies/Bat.props	1750	950	game

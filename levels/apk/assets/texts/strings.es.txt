@@ -1,0 +1,40 @@
+story_1:La tripulación pirata estaba aburrida y sin nada que hacer. Querían volver a divertirse como antes: robando, tomando, matando y haciendo todo lo demás, volver  a sus andanzas.
+story_2:¿Y el capitán Barba Verde dónde estaba? La última vez que lo vieron fue días atrás yendo a su habitación con... ah, cierto...
+story_3:Entonces la tripulación tuvo una idea para que el capitán no sea el único en divertirse.
+pause:Pausa
+lose:Perdiste
+win:Victoria!
+score:Puntaje:
+level:Nivel %d
+levelUser:NIVEL\
+%d
+buy:COMPRAR
+isle:Isla %d
+notEnoughCoins:No hay suficientes monedas para comprar esto
+notEnoughLevel:No tienes el nivel suficiente para comprar esto
+braveryIndicator:Indicador de valor
+loading:CARGANDO
+
+weapon0:Garfio-Cuerpo a cuerpo\
+Puede que tenga punta, pero no hace daño.\
+Puntos: --	Daño a jefes: 0
+
+weapon1:Chupa de inodoro-Cuerpo a cuerpo\
+No es mucho, pero es mejor que nada...\
+Puntos: x1	Daño a jefes: 1
+
+weapon2:Espada-Cuerpo a cuerpo\
+La vieja confiable, arma estándar del pirata\
+Puntos: x2	Daño a jefes: 2
+
+weapon3:Pistola-A distancia\
+Recarga lenta, pero al menos dispara!\
+Puntos: x2	Daño a jefes: 2
+
+weapon4:Motosierra-Cuerpo a cuerpo\
+Como una espada, pero más sangrienta!\
+Puntos: x3	Daño a jefes: 3
+
+weapon5:Lanzallamas-A distancia\
+Mata todo lo que se atraviese! Luego espera un montón por la recarga\
+Puntos: x4	Daño a jefes: 4

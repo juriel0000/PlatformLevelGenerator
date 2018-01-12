@@ -1,0 +1,40 @@
+story_1:The crew was bored and with nothing to do. They wanted to go back to the usual fun stuff: stealing, drinking, murdering and everything a pirate does.
+story_2:But where was the Captain Green Beard? the last time they saw him was a couple days ago, when he was going to his room with... oh, right...
+story_3:Then the crew had an idea so the Captain wasn't the only one to have fun.
+pause:Pause
+lose:You lose
+win:Victory!
+score:Score:
+level:Level %d
+levelUser:LEVEL\
+%d
+buy:BUY
+isle:Isle %d
+notEnoughCoins:Not enough coins to buy this
+notEnoughLevel:Not enough level to buy this
+braveryIndicator:Bravery Indicator
+loading:LOADING
+
+weapon0:Hook-Melee\
+It may be pointy, but it doesn't do damage\
+Points: --	Damage to bosses: 0
+
+weapon1:Toilet Pump-Melee\
+It's not much, but it's better than nothing...\
+Points: x1	Damage to bosses: 1
+
+weapon2:Sword-Melee\
+Your trusty standard pirate weapon\
+Points: x2	Damage to bosses: 2
+
+weapon3:Pistol-Ranged\
+Slow reloading, but at least shoots!\
+Points: x2	Damage to bosses: 2
+
+weapon4:Chain saw-Melee\
+Like a sword, but bloodier!!\
+Points: x3	Damage to bosses: 3
+
+weapon5:Flamethrower-Ranged\
+Kill everything you want! Then wait a lot for a reload\
+Points: x4	Damage to bosses: 4

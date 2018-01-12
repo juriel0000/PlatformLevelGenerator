@@ -1,0 +1,5 @@
+image:images/GameElements/Platforms/sandFloatingPlatform.png
+disappearing:true
+disappearInitTimer:0
+disappearingTime:0.5
+disappearedTime:0.5

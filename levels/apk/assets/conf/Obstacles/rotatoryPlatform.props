@@ -1,0 +1,4 @@
+image:images/GameElements/Platforms/sandPlatformRotatory.png
+rotationAnchorX:0.5
+rotationAnchorY:0.5
+dynamic:true

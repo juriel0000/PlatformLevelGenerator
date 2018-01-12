@@ -1,0 +1,6 @@
+image:images/GameElements/Obstacles/mobileRamp.png
+collider:colliders/mobileRamp.json
+dynamic:true
+rotatory:false
+mass:10000
+restitution:0

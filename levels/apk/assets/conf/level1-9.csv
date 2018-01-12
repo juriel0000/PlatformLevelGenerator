@@ -1,0 +1,25 @@
+LIMITS	0	5100	-150
+PLATFORM	Platforms/sandPlatform.png	0	150	game
+PLATFORM	Platforms/sandPlatform.png	500	150	game
+PLATFORM	Platforms/sandPlatform.png	1000	150	game
+PLATFORM	Platforms/sandPlatform.png	1500	150	game
+PLATFORM	Platforms/sandPlatform.png	2000	150	game
+PLATFORM	Platforms/sandPlatform.png	2500	150	game
+PLATFORM	Platforms/sandPlatform.png	3000	150	game
+PLATFORM	Platforms/sandPlatform.png	3500	150	game
+PLATFORM	Platforms/sandPlatform.png	4000	150	game
+PLATFORM	Platforms/sandPlatform.png	4500	150	game
+OBSTACLE	Obstacles/boulder.props	1000	950	game
+PLATFORM	Platforms/sandPlatform.png	1000	700	game
+ROTATORY_OBJECT	Obstacles/rotatoryPlatform.props	1500	700	game
+ROTATORY_OBJECT	Obstacles/rotatoryPlatform.props	2000	700	game
+ROTATORY_OBJECT	Obstacles/rotatoryPlatform.props	2500	700	game
+ROTATORY_OBJECT	Obstacles/rotatoryPlatform.props	3000	700	game
+OBSTACLE	grassWall.png	3350	450	game
+OBSTACLE	Obstacles/box.props	1250	450	game
+OBSTACLE	Obstacles/box.props	2000	450	game
+ROTATORY_OBJECT	Obstacles/rotatoryPlatformLong.props	3950	450	game
+OBSTACLE	grassWallTall.png	4550	650	game
+PLATFORM	Platforms/sandPlatform.png	4600	1450	game
+END	end.png	4800	1550	game
+ENEMY_AERIAL_PATROL	Enemies/Bat.props	1750	950	game

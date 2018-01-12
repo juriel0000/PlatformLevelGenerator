@@ -1,0 +1,552 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 2.3.0
+
+Name: assets/conf/Enemies/WaterCroc.props
+SHA1-Digest: dr1m6/E7xr+cRM9dXfL2puH+gdQ=
+
+Name: assets/images/UI/left.png
+SHA1-Digest: ogg6XwBMoi0tHg1ciut4DDQ7cMQ=
+
+Name: assets/conf/level1-9.csv
+SHA1-Digest: C6Mahlc60gp2ZGMLmJ4VDrB/SYQ=
+
+Name: assets/images/GameElements/coin.png
+SHA1-Digest: KG9YHnaqmimyjb2PEamg8r4ugho=
+
+Name: assets/conf/Obstacles/box.props
+SHA1-Digest: 139FmGYivCfA2O+WvX0YiG/6xBA=
+
+Name: assets/animations/Bat_tex.png
+SHA1-Digest: hmVcLM+PT687sTB5ljamFZiVIe4=
+
+Name: assets/animations/Seagull_tex.json
+SHA1-Digest: hKJ5UUB8qiPOSNUu51Q+nLTBQ9k=
+
+Name: assets/animations/Crab_tex.json
+SHA1-Digest: ntwtH9o7EBgjfumwEP+4fESNnb4=
+
+Name: assets/images/GameElements/Enemies/seaUrchin.png
+SHA1-Digest: XGJaEvgcGHOHd9sMJW2fiTsKjpc=
+
+Name: assets/images/GameElements/Platforms/simple_platform_right-500x1
+ 00.png
+SHA1-Digest: OegaYaAp5u6QvjrXmGfxUjako6w=
+
+Name: assets/images/GameElements/trampoline.png
+SHA1-Digest: Gq5W25irIc6B9mmpZCXk/ebflbw=
+
+Name: assets/conf/Collectables/redKey.props
+SHA1-Digest: 9KPObTnSq1Kmyeehb+JZ8BYwbT0=
+
+Name: assets/images/UI/comtor-bg.png
+SHA1-Digest: TXbE6F91+s9DEDyxd7WJ75HrBYo=
+
+Name: assets/images/GameElements/Environment/background2.png
+SHA1-Digest: oNGDnYHR094JMyssJpHz23yh9zc=
+
+Name: assets/conf/Enemies/CrabLeft.props
+SHA1-Digest: WxttmHUAltizcFaah+4Umf5hRH8=
+
+Name: assets/images/GameElements/grassWall.png
+SHA1-Digest: v5zORtp6yEv0bOIbKWOz7MUb/gc=
+
+Name: assets/conf/Platforms/MobilePlatform2.props
+SHA1-Digest: YQKBDNZW8YtnqlhJVZPNerN35wg=
+
+Name: assets/animations/Captain_ske.json
+SHA1-Digest: 4dEc+qG9PwdVEE9Dr8sMbrRCLfM=
+
+Name: assets/images/GameElements/Enemies/thorn.png
+SHA1-Digest: TKrOPn1s5wJVAgTN/n7hMjNQHhc=
+
+Name: assets/images/GameElements/Platforms/sandFill1.png
+SHA1-Digest: 796P88mv91JmLT0fjkVMrsPiPBo=
+
+Name: assets/images/UI/play.png
+SHA1-Digest: PnFJo/NudprwD3q+AsJzfpsAldE=
+
+Name: assets/animations/Clam_ske.json
+SHA1-Digest: s9CfXeSOm/pj6Kn0d2GzpkcKmDM=
+
+Name: assets/fonts/Marker Felt.ttf
+SHA1-Digest: Ul8qSkVFD87LPYpf1H07D0hPYps=
+
+Name: assets/images/GameElements/Platforms/sandPlatformDown.png
+SHA1-Digest: 4lQJObHcyylIuXiqwmZXgb7KecQ=
+
+Name: assets/images/GameElements/Environment/Tropical/rock3.png
+SHA1-Digest: pZEHtafpGASJcsYFtr32q8XzRZc=
+
+Name: assets/images/UI/win.png
+SHA1-Digest: mcBn8Irj4Ys3xjkG6ytRK3ajAjo=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: 3262x3MhQmYwVAZjr6oFhqSGFvg=
+
+Name: assets/images/UI/Weapons/flamethrower.png
+SHA1-Digest: 1hdglyUo1eiQme+isStkWDVsifc=
+
+Name: assets/images/GameElements/Environment/Tropical/rock1.png
+SHA1-Digest: YEwmFbT6IBF48AL404gQwJjSr8M=
+
+Name: assets/colliders/mobileRamp.json
+SHA1-Digest: gOy1+zahlJHuw+HIuicTurRUIaU=
+
+Name: assets/images/GameElements/Obstacles/boulder.png
+SHA1-Digest: 3DsdOSyQzZOSlO+uYOsLWlDyev4=
+
+Name: assets/conf/Images.txt
+SHA1-Digest: RGafZVCYNDdjeHpo+r1TZOOLGXc=
+
+Name: resources.arsc
+SHA1-Digest: 6QaVmYBddD5G4Nj9FDD1gw11+fc=
+
+Name: assets/animations/Croc_tex.json
+SHA1-Digest: OP4lEe8yvLO3lguDLnA6i4YItNk=
+
+Name: assets/images/GameElements/longAssPlatform.png
+SHA1-Digest: lzlgCh1Holl45Yde/IYRK8NQ/ZU=
+
+Name: assets/texts/strings.es.txt
+SHA1-Digest: l9E8p30WEKUNcA6nIt8J2kRrTwI=
+
+Name: assets/conf/level1-7.csv
+SHA1-Digest: UDkAjNG2IsgnU17dhbXJMGN7V7w=
+
+Name: assets/images/GameElements/Environment/Tropical/palm2.png
+SHA1-Digest: BRfBPL9xUYvFqlx0IqTEOzTXju8=
+
+Name: assets/animations/Crab_ske.json
+SHA1-Digest: zFv/EZshcWp4I2AIorhWvJYr53g=
+
+Name: assets/conf/Enemies/Seagull.props
+SHA1-Digest: Vcdc88Oj5sdH+c7EJZim0os+Ypg=
+
+Name: assets/conf/level1-4.csv
+SHA1-Digest: myNQ0Qjm6+F9K3iPl2SjrBvymBo=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Zrt078JX/PdsA5TI8gaZ3MzvAu8=
+
+Name: assets/colliders/character.json
+SHA1-Digest: xwdE7j6cCOoxFCoDxwAaWf0CQgI=
+
+Name: assets/images/UI/scoreBackground.png
+SHA1-Digest: ZNHRMKRgiO8gNkG6H3b59FxdZc0=
+
+Name: assets/images/GameElements/Environment/Tropical/bush.png
+SHA1-Digest: rZox5xFbTuG9kuTaKJGRakecae0=
+
+Name: assets/images/GameElements/dirtPlatform.png
+SHA1-Digest: m+D9MCRn58ywEe48CnWIzWYXMHs=
+
+Name: assets/animations/Captain_tex.png
+SHA1-Digest: TjV1D5XWCN2i/H3yY6JrjsfMkF4=
+
+Name: assets/animations/RedDoor_tex.png
+SHA1-Digest: 8cj1Wey3+fsPL6fb8iEsBuFESKo=
+
+Name: assets/conf/Platforms/MobilePlatform1.props
+SHA1-Digest: +YUZezX2kdjGRRr1qJ0RHFsMd8o=
+
+Name: assets/images/GameElements/Collectables/yellowKey.png
+SHA1-Digest: Iq/GXxqYBFoDxzpI0G5IRgWmhxg=
+
+Name: assets/images/UI/crouch.png
+SHA1-Digest: D8LIhZ7tKS9J4olXr86hmXUn8lg=
+
+Name: assets/images/GameElements/Environment/Tropical/plant2.png
+SHA1-Digest: 8Y4SFbaacSkKY2wFCfv/ftOYZ/w=
+
+Name: assets/images/UI/PauseMenu/colorLayer.png
+SHA1-Digest: Z/OjxXwDdG0tVW10Lce4yCF8oIg=
+
+Name: assets/images/UI/jump.png
+SHA1-Digest: iCCwTIQmK8Rk163sUOQdeF5oH94=
+
+Name: assets/conf/Obstacles/rotatoryPlatform300x100.props
+SHA1-Digest: aJAmDSotL9BDO5E8wo4+Kcy/vNQ=
+
+Name: assets/images/UI/PauseMenu/soundSkull.png
+SHA1-Digest: PBREjtCs+rbGKMqoofe2y9XwFWI=
+
+Name: assets/images/GameElements/Environment/Tropical/rock4.png
+SHA1-Digest: h4TwWsmFyUx8JWwyEIL+4xNIcyI=
+
+Name: assets/images/GameElements/end.png
+SHA1-Digest: C23KPpH6o0CUWqHozz/Fxb+HZHs=
+
+Name: assets/conf/Obstacles/rotatoryPlatformLong.props
+SHA1-Digest: XBJfl+K4Uamf7cleKToZJLw9xtM=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: 3262x3MhQmYwVAZjr6oFhqSGFvg=
+
+Name: assets/animations/Clam_tex.json
+SHA1-Digest: eNeEaIfbaBeMPPEwAvmDEhJE6aI=
+
+Name: assets/conf/Platforms/mobilePlatformVertical1750Down.props
+SHA1-Digest: xv4LqBl7ESWVe0ETA/6rcBNCjM0=
+
+Name: assets/images/UI/Weapons/pistol.png
+SHA1-Digest: jFgo+vGOv4sXk41alxBUljyFSXk=
+
+Name: assets/conf/level1-2.csv
+SHA1-Digest: tKe5jA0NElTJSnBODhjPhkldwac=
+
+Name: assets/images/GameElements/grassPlatform.png
+SHA1-Digest: VeruhEV1Ag3T+kNcxL8tYFTSvUg=
+
+Name: assets/images/UI/logoStart.png
+SHA1-Digest: hXofnnr9RE0mrD5plF+YuXyffJA=
+
+Name: assets/images/UI/Weapons/fireball.png
+SHA1-Digest: 3C0joZHQIBGSUC3HeebPMX43U18=
+
+Name: assets/colliders/ship.json
+SHA1-Digest: K63I2SjYG49zHGBYH+Grs+6OBAw=
+
+Name: assets/fonts/arial.ttf
+SHA1-Digest: foaJFK5WjLI88v0kWt2jmW0DL70=
+
+Name: assets/colliders/ramp500x300.json
+SHA1-Digest: xM2AEsFJdRNE0guiE3hov/H92Ew=
+
+Name: assets/images/UI/Weapons/toilet_pump.png
+SHA1-Digest: ArNQWk8B9x1CBOyri5EX7VV4Sq0=
+
+Name: assets/images/GameElements/Enemies/croc.png
+SHA1-Digest: q1ycQZAp6I3cR+yuZl8ovV2cHVw=
+
+Name: assets/images/GameElements/Platforms/simple_platform-left-500x10
+ 0.png
+SHA1-Digest: ja2SnTLI8Qxe000fE/Lu4jz1f0I=
+
+Name: assets/images/GameElements/Platforms/sandRampDown500x300.png
+SHA1-Digest: E8OQhKpIQghcBac8ZGbaMPf4iqQ=
+
+Name: assets/images/GameElements/Platforms/sandFloatingPlatform1.png
+SHA1-Digest: QOKRVsLAIN+q7OSBoKxV0FqdnxU=
+
+Name: assets/images/GameElements/Platforms/sandPlatformLong.png
+SHA1-Digest: SQZFg1D/m1gahRMppQKUHoyICx8=
+
+Name: assets/conf/level1-10.csv
+SHA1-Digest: fofEfD4rOyl5BoMFqrCoVYbA8Q4=
+
+Name: assets/animations/Seagull_ske.json
+SHA1-Digest: J+IeiNEW5XE3wopnDk3tITYEkBM=
+
+Name: assets/images/UI/LifeBar/lifeBarBackground.png
+SHA1-Digest: cNbcejS8SbNlsbduMeoc9KKfRlM=
+
+Name: assets/conf/Platforms/MobilePlatform.props
+SHA1-Digest: +YUZezX2kdjGRRr1qJ0RHFsMd8o=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: 3262x3MhQmYwVAZjr6oFhqSGFvg=
+
+Name: assets/images/UI/PauseMenu/dottedLine.png
+SHA1-Digest: BcDq0neSge/KMzqb5QwTvcR4lsg=
+
+Name: assets/images/GameElements/Enemies/clamOpen.png
+SHA1-Digest: escuPYLvVhuU9ziX8/H9oTEbIRY=
+
+Name: assets/animations/RedDoor_ske.json
+SHA1-Digest: Jm2DDwYPjsdUh7I6AHk563avMf0=
+
+Name: assets/images/GameElements/chest.png
+SHA1-Digest: RNVyU7lgSL/9XUeeO5N45ChSTLU=
+
+Name: assets/conf/Obstacles/boulder.props
+SHA1-Digest: OuC1bZxU42ePvVvwCAJhhNLk8Dw=
+
+Name: assets/images/GameElements/Enemies/clamClosed.png
+SHA1-Digest: 267we5J1LPD8nz7jJaKeAKo6VUc=
+
+Name: assets/images/UI/LifeBar/lifeIcon.png
+SHA1-Digest: /ce0vkboy2qQ8+lEwUj29aUFM3Y=
+
+Name: assets/conf/Enemies/BatVertical1500Up.props
+SHA1-Digest: W7ui8+JWPWb+8lPmHntDfnPFZ/A=
+
+Name: assets/images/GameElements/Environment/background1.png
+SHA1-Digest: fPqG17X2sy+oghFwNPUCcEcDmdU=
+
+Name: assets/images/GameElements/Platforms/sandPlatformDown30.png
+SHA1-Digest: WIvr3CC4zalq3E+Zc3zx1m7JpBM=
+
+Name: assets/conf/Platforms/mobilePlatformHorizontal1500Left.props
+SHA1-Digest: vhyNkKiszSRNMe3aGUOXYxIBPk0=
+
+Name: assets/conf/level1-8.csv
+SHA1-Digest: fm2HVv+qyZQwpMc5vmdvH1ODZcM=
+
+Name: assets/images/UI/pause.png
+SHA1-Digest: KfII2C3V3xyWOvrzc7qNwGCzRcw=
+
+Name: assets/images/UI/buttonBg.png
+SHA1-Digest: 4ao3PjqJuHPB8c9QFM81fWP89z4=
+
+Name: assets/images/GameElements/bottle.png
+SHA1-Digest: fx4LfiwPcCCinYl9lQ3BXDbVTZc=
+
+Name: assets/images/UI/Weapons/bullet.png
+SHA1-Digest: Cb9K1OPQQAEQ+r269ZJrJ7jnt9Y=
+
+Name: assets/conf/Enemies/BatVertical1500Down.props
+SHA1-Digest: 6TPCxSwc6yvsajAH7PH8dwliSKU=
+
+Name: assets/images/UI/pad.png
+SHA1-Digest: DD/gurRTh4mekgeEJnytm29oC0g=
+
+Name: assets/images/GameElements/Obstacles/ship.png
+SHA1-Digest: lun8RhJKiGaUpOWrwkixIUzNICw=
+
+Name: assets/conf/Platforms/mobilePlatformHorizontal2500Right.props
+SHA1-Digest: OxV5zeiXDkHm+h5OSWrjUAalW8c=
+
+Name: assets/images/GameElements/grassBlock.png
+SHA1-Digest: UWbH+kDKNYSosL/2UmuZsbg5s2E=
+
+Name: assets/conf/level1-1.csv
+SHA1-Digest: K1l10AIofJA89MXTw0u9Mh5SczA=
+
+Name: assets/images/GameElements/grassWallTall.png
+SHA1-Digest: ZdwlLsO0TZD+wcCsO9FkagSBW1g=
+
+Name: assets/images/GameElements/Enemies/Bat.png
+SHA1-Digest: XPoqQy6W9mTM5mTdEAvxIk3czUU=
+
+Name: assets/images/GameElements/Platforms/grass50x50.png
+SHA1-Digest: tvGrOZXD6sKGPbXqfH4DUtq7Zmk=
+
+Name: assets/images/GameElements/Platforms/icePlatform.png
+SHA1-Digest: ovBNGJY6ZBvLon8CrfaTZgjwf6Q=
+
+Name: assets/conf/Obstacles/ship.props
+SHA1-Digest: tirejxpt3OX+3dScbO0LeVPREbQ=
+
+Name: assets/conf/Enemies/Bat.props
+SHA1-Digest: JlQd9b4LCj6EbSYgcKQoaDTuGgw=
+
+Name: assets/images/GameElements/Environment/Tropical/rock2.png
+SHA1-Digest: sKRBmiYkrn5AzmPT5D/7gkaVoCg=
+
+Name: assets/conf/Obstacles/sandPlatformDown.props
+SHA1-Digest: NBKGFfL941FKTxd7IICcSkJPwDM=
+
+Name: assets/images/UI/Weapons/hook.png
+SHA1-Digest: eY1PpSs/YCvnq2C/FWi5oShKDHo=
+
+Name: assets/images/GameElements/Obstacles/mobileRamp.png
+SHA1-Digest: gyvOCJljgELJ7BUzv8Y4hWCel+U=
+
+Name: assets/animations/Seagull_tex.png
+SHA1-Digest: ajPT+nm1HqHp/TJwEMnkbnetq5Y=
+
+Name: assets/conf/Platforms/DisappearingPlatform2.props
+SHA1-Digest: sJVn4QLNIGL0xQxi1ZQaKwyTwOE=
+
+Name: assets/conf/level1-6.csv
+SHA1-Digest: m1bJx3Ukv7WgJM/e6L3IqGGWcko=
+
+Name: assets/images/GameElements/Environment/Tropical/palm1.png
+SHA1-Digest: sM088awXxYg1ZZBy/6fVlWLUsOs=
+
+Name: assets/images/GameElements/Platforms/sandPlatform.png
+SHA1-Digest: bcMvZu3UtjL42oODTM3yaMpE4gc=
+
+Name: assets/images/UI/coin_bag.png
+SHA1-Digest: EV95FhALTkXE9MCo1GwCbhzeLgY=
+
+Name: assets/colliders/inclinedPlatformDown30.json
+SHA1-Digest: eHP+rdTNp6slrNzzca8QghQ9kKY=
+
+Name: assets/images/GameElements/Platforms/sandFill.png
+SHA1-Digest: jzhaWHIP+0tVmGCQanC354GFuKM=
+
+Name: assets/images/GameElements/Enemies/crab.png
+SHA1-Digest: 1/OXQIdosh/JO9DbVoRHDFhNZJk=
+
+Name: assets/images/GameElements/Platforms/sandPlatformRotatory.png
+SHA1-Digest: qCt4niYkde8NyR07gU8SCw6qaPQ=
+
+Name: assets/animations/Snowman_tex.png
+SHA1-Digest: nj1JK3fF2sMLGQAcCNSw3Qq6YlE=
+
+Name: assets/animations/Croc_ske.json
+SHA1-Digest: ibPIFPjqJRBvCSUVWsCa/M1F2KM=
+
+Name: assets/images/GameElements/Environment/Tropical/plant4.png
+SHA1-Digest: 1FmSl+Y5Pkr5/gfxPGx3zSz5Rkk=
+
+Name: assets/images/GameElements/Platforms/sandRampDown500x3001.png
+SHA1-Digest: d2RboqzuFf+Rtpka3Snu5JpeeB8=
+
+Name: assets/conf/Enemies/Snowman.props
+SHA1-Digest: g4ayH/k8y91yxAFixV+IwxT91e0=
+
+Name: assets/animations/Snowman_ske.json
+SHA1-Digest: Ds9iRMQgXBmLlWTzKGTqajbJ228=
+
+Name: assets/conf/Obstacles/rotatoryPlatform.props
+SHA1-Digest: 3TF25/Aj4tg3VAgM1BVz7DmnEu8=
+
+Name: assets/images/GameElements/Enemies/snowball1.png
+SHA1-Digest: jtiDSxgnvnd65pzHJfM1gOtwsmo=
+
+Name: assets/images/UI/restart.png
+SHA1-Digest: SuKQ5jTHUUXjinV+MULKXIQiihA=
+
+Name: assets/images/UI/PauseMenu/sound.png
+SHA1-Digest: UCNOokIxwQhd3AtitUbWDEqFZSw=
+
+Name: assets/images/GameElements/Platforms/grass100x100.png
+SHA1-Digest: tvGrOZXD6sKGPbXqfH4DUtq7Zmk=
+
+Name: assets/images/UI/home.png
+SHA1-Digest: r6NlnckcacbIMw2DJaWb5K/i+WQ=
+
+Name: assets/images/GameElements/Environment/Tropical/plant3.png
+SHA1-Digest: djPQ+N5liz86yTXVxfOu4sWY4GY=
+
+Name: assets/animations/Crab_tex.png
+SHA1-Digest: TfhfCrFAjl4T9cJZtAAw9k/QHRU=
+
+Name: assets/animations/RedDoor_tex.json
+SHA1-Digest: 8Td+Pj/5r0GnkVDC0zqqr1xLTg0=
+
+Name: assets/conf/Enemies/Clam.props
+SHA1-Digest: ZAxskB4kaA1JYhBNzeoCeEHVWkE=
+
+Name: assets/images/GameElements/Obstacles/box.png
+SHA1-Digest: yC758I7NP9d5QTIyBwW6rSB28E0=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: 3262x3MhQmYwVAZjr6oFhqSGFvg=
+
+Name: assets/conf/Obstacles/mobileRamp.props
+SHA1-Digest: 23eh5gpnneoNT4jiaXybvPK+sTU=
+
+Name: assets/conf/Enemies/Crab.props
+SHA1-Digest: +hmLfZkngta24jzgKyMcxbdWYio=
+
+Name: assets/conf/Platforms/DisappearingPlatform1.props
+SHA1-Digest: Ch5djNGPPSbK+QNJjSdWmZ+/JWE=
+
+Name: assets/images/UI/background1.png
+SHA1-Digest: usMkUvbRPANrJxJm8v08+aYGO44=
+
+Name: assets/images/GameElements/Platforms/sandPlatform300x100.png
+SHA1-Digest: Dzj0tkUGt0PeUl1M07c87dPLajQ=
+
+Name: assets/images/GameElements/Platforms/sandFloatingPlatform.png
+SHA1-Digest: ex50rI4lAOznjI5lh8TcAbeMI9g=
+
+Name: assets/images/UI/lose.png
+SHA1-Digest: TqOZQ+XpMvoKgBCeLUSTagOgrcI=
+
+Name: assets/animations/Snowman_tex.json
+SHA1-Digest: 7Fh7rtYSn+421M36/iv7PbBrHVc=
+
+Name: assets/conf/Sounds.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/animations/Clam_tex.png
+SHA1-Digest: jzd8tjZ1iVGxEL4c3A5OmBacVsI=
+
+Name: assets/animations/Captain_tex.json
+SHA1-Digest: BvpmGmTzpxiQcQC3qZhP5CIfB7g=
+
+Name: assets/conf/level1-5.csv
+SHA1-Digest: 14a4ABbzrN+zNHn/dGmZQa5bJok=
+
+Name: assets/images/UI/Weapons/chainsaw.png
+SHA1-Digest: CwBOTbuw7nm+Tr/GT18k8nis458=
+
+Name: assets/images/UI/PauseMenu/map.png
+SHA1-Digest: jCrHWeOJjoF8LdXK8EQbf9PlZdQ=
+
+Name: assets/conf/Collectables/yellowKey.props
+SHA1-Digest: v7TKE2vA+A6Nr//k01F9OfpxMgI=
+
+Name: assets/images/GameElements/Platforms/sandPlatform1.png
+SHA1-Digest: xrHiSy8EbKFmg7tqKUWfUoeJcvE=
+
+Name: assets/images/GameElements/Environment/Tropical/plant1.png
+SHA1-Digest: 4YM3VfjWDg82sbtLtAnG9DCT5XU=
+
+Name: assets/conf/Obstacles/sandRampDown500x300.props
+SHA1-Digest: yP7E9DyQK5tNQbFHRAfdUEoBQQQ=
+
+Name: assets/conf/Obstacles/RedDoor.props
+SHA1-Digest: 5YEFD8lZpSgdUDpuklAfuY3wyS0=
+
+Name: assets/images/UI/sliderBar.png
+SHA1-Digest: DBh1bPWwzXScgCX0A6XjMmw/t3c=
+
+Name: assets/conf/levelTest.csv
+SHA1-Digest: zrWeanzf67x2c+7EFmV3mRHzdcA=
+
+Name: assets/images/GameElements/Environment/Tropical/log.png
+SHA1-Digest: 9Fhdpnm1QCaW0gMpvHZ/L6NVqV8=
+
+Name: assets/texts/strings.en.txt
+SHA1-Digest: 5x19egPloUrjozNtT9g5jucVK5Y=
+
+Name: assets/conf/level1-11.csv
+SHA1-Digest: xZZesPX9OeGOJEYIDd2AQXtlR2I=
+
+Name: assets/conf/Obstacles/sandPlatformDown30.props
+SHA1-Digest: +gvlvEReRILfFYsfOdhn41Ou0+Y=
+
+Name: assets/images/UI/LifeBar/lifeBar.png
+SHA1-Digest: L3OnNNdNR7ke4xMRBwk6WHQNv2g=
+
+Name: assets/images/GameElements/Collectables/redKey.png
+SHA1-Digest: LeaIYAlyDGYMlKv3/CdxC+gR15M=
+
+Name: lib/armeabi/libMyGame.so
+SHA1-Digest: iZlJ9LvmDFck3Fo9BnPtSaFL7sU=
+
+Name: assets/animations/Bat_tex.json
+SHA1-Digest: dvNbmRN6t52yrxRna/CDfxarUF0=
+
+Name: assets/conf/Platforms/mobilePlatformHorizontal1500Right.props
+SHA1-Digest: wHcE1KKTf3pBfI/rHQLnwgeCa2E=
+
+Name: assets/animations/Croc_tex.png
+SHA1-Digest: Za3QNFkogiLAfA0CrgJOppwLgJE=
+
+Name: assets/conf/level1-3.csv
+SHA1-Digest: a66U5grbNSpRVx606kUvuzT9bgA=
+
+Name: assets/conf/Enemies/BatHorizontal1000Right.props
+SHA1-Digest: VuTt7ESBQGCeXkXlrvoBMkPoAPQ=
+
+Name: assets/animations/Bat_ske.json
+SHA1-Digest: Sdciom0vqLUD4AcNhyUnCsSyRD4=
+
+Name: assets/images/UI/Next.png
+SHA1-Digest: tPh9yr/FnhM6zlnRlM9ChXb+Fzo=
+
+Name: assets/fonts/PirataOne-Regular.ttf
+SHA1-Digest: ZjveBOqSmrA1SORxLDtrUPE6SP8=
+
+Name: classes.dex
+SHA1-Digest: fiyisUcCOMaWIM/i7jXEZF9ly48=
+
+Name: assets/images/UI/Weapons/sword.png
+SHA1-Digest: MvG5s2PgB+S/Qvk1EUek5Zs76n0=
+
+Name: assets/images/GameElements/Enemies/Snowman.png
+SHA1-Digest: cKSQuRpOrud1YURrAzDuMBGf+jE=
+
+Name: assets/colliders/inclinedPlatformDown.json
+SHA1-Digest: m4C+l/G3tU5XnPI2l6RXpIwVOsI=
+
+Name: assets/images/UI/right.png
+SHA1-Digest: F1kPm/Xbi2dVcokjr5KBAD1Gcio=
+

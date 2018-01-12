@@ -1,0 +1,18 @@
+LIMITS	0	14700	0	
+INIT_POS	250	800		
+PLATFORM	Platforms/sandPlatform.png	-250	450	game
+PLATFORM	Platforms/sandPlatform.png	250	350	game
+PLATFORM	Platforms/sandPlatform.png	750	350	game
+OBSTACLE	Obstacles/mobileRamp.props	550	600	game
+DOOR_KEY	Collectables/redKey.props	750	600	game
+ROTATORY_OBJECT	Obstacles/rotatoryPlatform300x100.props	650	1050	game
+OBSTACLE	Obstacles/boulder.props	650	1200	game
+OBSTACLE	Obstacles/sandRampDown500x300.props	1250	250	game
+PLATFORM	Platforms/sandPlatform.png	1750	150	game
+PLATFORM	Platforms/sandPlatform.png	2250	150	game
+DOOR_KEY	Collectables/yellowKey.props	1750	300	game
+DOOR	Obstacles/RedDoor.props	2050	400	game
+OBSTACLE	grassWallTall.png	2050	1400	game
+PLATFORM	Platforms/sandPlatform.png	2750	150	game
+END	end.png	14250	250	game
+PLATFORM	Platforms/sandPlatform.png	14250	150	game
