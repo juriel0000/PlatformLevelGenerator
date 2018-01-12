@@ -45,6 +45,8 @@ public class Main {
                 char c = line.charAt(j);
                 
                 
+                
+                
                 if (c != ' '){
                     processChar(c, x, y );
                 }
