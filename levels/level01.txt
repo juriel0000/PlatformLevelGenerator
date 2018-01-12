@@ -1,18 +1,3 @@
-X                                                                                                   
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
                                                                                                     
                                                    ..                                               
                                                   .__ .                                             
@@ -21,5 +6,5 @@ X
        ______....._____ ..... _____  .....  _____       _  _ _ _ _ _ _ _ _    XXX                   
      X       _____      _____        _____                                   XXXX                   
     XX                                                                      XXXXX                   
-P  XXX V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V XXXXXXX             E    
+P  XXX V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V  V XXXXXXX  C    C      E
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 

@@ -1,55 +1,17 @@
-LIMITS	0	14700	0	
-INIT_POS	250	800		
-PLATFORM	Platforms/sandPlatform.png	-250	450	game
-PLATFORM	Platforms/sandPlatform.png	250	350	game
-PLATFORM	Platforms/sandPlatform.png	750	350	game
-OBSTACLE	Obstacles/mobileRamp.props	550	600	game
-ROTATORY_OBJECT	Obstacles/rotatoryPlatform300x100.props	650	1050	game
-OBSTACLE	Obstacles/boulder.props	650	1200	game
-OBSTACLE	Obstacles/sandRampDown500x300.props	1250	250	game
-PLATFORM	Platforms/sandPlatform.png	1750	150	game
-PLATFORM	Platforms/sandPlatform.png	2250	150	game
-DESTROYABLE_OBSTACLE	Obstacles/box.png	2200	400	game
-OBSTACLE	grassWallTall.png	2050	1400	game
-PLATFORM	Platforms/sandPlatform.png	2750	150	game
-PLATFORM	Platforms/sandPlatform.png	3250	150	game
-PLATFORM	Platforms/sandPlatform.png	3750	150	game
-PLATFORM	Platforms/DisappearingPlatform1.props	3750	650	game
-PLATFORM	Platforms/DisappearingPlatform2.props	4250	650	game
-PLATFORM	Platforms/DisappearingPlatform1.props	4750	650	game
-PLATFORM	Platforms/DisappearingPlatform2.props	5750	650	game
-PLATFORM	Platforms/DisappearingPlatform1.props	6750	650	game
-PLATFORM	Platforms/DisappearingPlatform2.props	8250	650	game
-PLATFORM	Platforms/sandPlatform.png	4250	150	game
-PLATFORM	Platforms/sandPlatform.png	4750	150	game
-PLATFORM	Platforms/sandPlatform.png	5250	150	game
-PLATFORM	Platforms/sandPlatform.png	5750	150	game
-PLATFORM	Platforms/sandPlatform.png	6250	150	game
-PLATFORM	Platforms/sandPlatform.png	6750	150	game
-PLATFORM	Platforms/sandPlatform.png	7250	150	game
-PLATFORM	Platforms/sandPlatform.png	7750	150	game
-PLATFORM	Platforms/sandPlatform.png	8250	150	game
-PLATFORM	Platforms/sandPlatform.png	8750	150	game
-ENEMY_PATROL	Enemies/Crab.props	3750	350	game
-ENEMY_PATROL	Enemies/CrabLeft.props	4250	350	game
-ENEMY_PATROL	Enemies/Crab.props	4750	350	game
-ENEMY_PATROL	Enemies/CrabLeft.props	5250	350	game
-ENEMY_PATROL	Enemies/Crab.props	5750	350	game
-ENEMY_PATROL	Enemies/CrabLeft.props	6250	350	game
-ENEMY_PATROL	Enemies/Crab.props	6750	350	game
-ENEMY_PATROL	Enemies/CrabLeft.props	7250	350	game
-ENEMY_PATROL	Enemies/Crab.props	7750	350	game
-ENEMY_PATROL	Enemies/CrabLeft.props	8250	350	game
-OBSTACLE	Platforms/sandFill.png	8750	450	game
-MOBILE_PLATFORM	Platforms/MobilePlatform1.props	9200	650	game
-MOBILE_PLATFORM	Platforms/MobilePlatform2.props	10200	1250	game
-MOBILE_PLATFORM	Platforms/MobilePlatform1.props	11000	650	game
-MOBILE_PLATFORM	Platforms/MobilePlatform2.props	12000	1250	game
-MOBILE_PLATFORM	Platforms/MobilePlatform1.props	13000	650	game
-MOBILE_PLATFORM	Platforms/MobilePlatform2.props	14000	1250	game
-ENEMY_AERIAL_PATROL	Enemies/Bat.props	9200	600	game
-ENEMY_AERIAL_PATROL	Enemies/Bat.props	12000	900	game
-ENEMY_AERIAL_PATROL	Enemies/Bat.props	9200	1200	game
-ENEMY_AERIAL_PATROL	Enemies/Bat.props	12000	1500	game
-END	end.png	14250	250	game
-PLATFORM	Platforms/sandPlatform.png	14250	150	game
+LIMITS|0|7500|-300
+INIT_POS|580|655|game
+PLATFORM|Platforms/platform00-500x500-top.png|2250|750|game
+PLATFORM|Platforms/platform00-500x500-top.png|2750|750|game
+END|end.png|4250|750|game
+PLATFORM|Platforms/platform00-500x500-top.png|250|250|game
+PLATFORM|Platforms/platform00-500x500-top.png|750|250|game
+PLATFORM|Platforms/platform00-500x500-top.png|1250|250|game
+PLATFORM|Platforms/platform00-500x500-top.png|1750|250|game
+PLATFORM|Platforms/platform00-500x500-fill.png|2250|250|game
+PLATFORM|Platforms/platform00-500x500-fill.png|2750|250|game
+PLATFORM|Platforms/platform00-500x500-top.png|3250|250|game
+PLATFORM|Platforms/platform00-500x500-top.png|3750|250|game
+PLATFORM|Platforms/platform00-500x500-top.png|4250|250|game
+PLATFORM|Platforms/platform00-500x500-top.png|4750|250|game
+PLATFORM|Platforms/platform00-500x500-top.png|5250|250|game
+PLATFORM|Platforms/platform00-500x500-top.png|5750|250|game

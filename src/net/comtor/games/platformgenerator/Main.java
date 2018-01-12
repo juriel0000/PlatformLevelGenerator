@@ -102,7 +102,7 @@ public class Main {
 
         }
         if (c == 'P'){
-            System.out.println("INIT_POS\t"+(posx+80)+"\t"+(posy+155)+"\tgame" );
+            System.out.println("INIT_POS\t"+(posx+80)+"\t"+(posy+155) );
             
         }
         if (c == '.'){
@@ -113,9 +113,14 @@ public class Main {
             System.out.println("END\tend.png\t"+(posx+250)+"\t"+(posy+250)+"\tgame" );            
         }
         if (c == 'B'){
-            System.out.println("ENEMY_AERIAL_PATROL_ZONE\tPlatforms/zone_bat-1000.props\t"+(posx+250)+"\t"+(posy+250)+"\tgame" );            
+            System.out.println("ENEMY_AERIAL_PATROL_ZONE\tEnemies/zone_bat-1000.props\t"+(posx+250)+"\t"+(posy+250)+"\tgame" );            
         }
-     
+        if (c == 'V'){
+            System.out.println("ENEMY_STATIC\tEnemies/seaUrchin.png\t"+(posx+250)+"\t"+(posy+250)+"\tgame" );            
+        }
+        if (c == 'C'){
+            System.out.println("ENEMY_PATROL\tEnemies/Crab.props\t"+(posx+55)+"\t"+(posy+50)+"\tgame" );            
+        }
     }
 
 
