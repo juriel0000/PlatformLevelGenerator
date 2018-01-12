@@ -62,6 +62,8 @@ public class Main {
             }
             System.err.println("|");
         }*/
+        
+        System.out.println("LIMITS\t0\t"+cols*500+"\t-300");
         for (int row = 0; row < rows; row++) {
             for (int col = 0; col < cols; col++) {
                 generateCode(matrix, row, col);
@@ -96,13 +98,24 @@ public class Main {
             }
         }
         if (c == '_'){
-            System.out.println("PLATFORM\tPlatforms/platform00-500x100-top.png\t"+(posx+250)+"\t"+(posy+250)+"\tgame" );
+            System.out.println("PLATFORM\tPlatforms/platform00-500x100-top.png\t"+(posx+250)+"\t"+(posy+50)+"\tgame" );
 
+        }
+        if (c == 'P'){
+            System.out.println("INIT_POS\t"+(posx+80)+"\t"+(posy+155)+"\tgame" );
+            
         }
         if (c == '.'){
             System.out.println("COIN\tnone\t"+(posx+250)+"\t"+(posy+250)+"\tgame" );
             
         }
+        if (c == 'E'){
+            System.out.println("END\tend.png\t"+(posx+250)+"\t"+(posy+250)+"\tgame" );            
+        }
+        if (c == 'B'){
+            System.out.println("ENEMY_AERIAL_PATROL_ZONE\tPlatforms/zone_bat-1000.props\t"+(posx+250)+"\t"+(posy+250)+"\tgame" );            
+        }
+     
     }
 
 
